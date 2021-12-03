@@ -2093,12 +2093,12 @@ input, select, textarea {
 			}
 
 		#header .icons {
-			font-size: 0.8em;
+			font-size: 1.1em;
 			text-align: center;
 		}
 
 			#header .icons a {
-				color: #41484c;
+				color: #a8c1cf;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
@@ -2127,7 +2127,7 @@ input, select, textarea {
 		#logo p {
 			position: relative;
 			display: block;
-			font-size: 0.6em;
+			font-size: 0.75em;
 			color: rgba(255, 255, 255, 0.5);
 			line-height: 1.25em;
 			margin: 0.5em 0 0 0;
@@ -2137,6 +2137,7 @@ input, select, textarea {
 			position: absolute;
 			left: 0;
 			top: 0;
+			background-color: #222729;
 		}
 
 	#nav ul {
